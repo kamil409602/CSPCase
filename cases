@@ -1,0 +1,17 @@
+// PascalCase struct definition
+typedef struct PascalCaseExample {
+int FirstNumber;
+int SecondNumber;
+} PascalCaseExample;
+
+// snake_case struct definition
+typedef struct snake_case_example {
+int first_number;
+int second_number;
+} snake_case_example;
+
+// camelCase struct definition
+typedef struct camelCaseExample {
+int firstNumber;
+int secondNumber;
+} camelCaseExample;
